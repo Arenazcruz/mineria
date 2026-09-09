@@ -1,0 +1,11 @@
+archivo,registros,variables
+demanda_predictiva_takeshi.csv,88,13
+olist_customers_dataset.csv,99441,5
+olist_geolocation_dataset.csv,1000163,5
+olist_order_items_dataset.csv,112650,7
+olist_order_payments_dataset.csv,103886,5
+olist_order_reviews_dataset.csv,99224,7
+olist_orders_dataset.csv,99441,8
+olist_products_dataset.csv,32951,9
+olist_sellers_dataset.csv,3095,4
+product_category_name_translation.csv,71,2

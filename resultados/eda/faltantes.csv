@@ -1,0 +1,14 @@
+archivo,variable,faltantes
+olist_order_reviews_dataset.csv,review_comment_title,87656
+olist_order_reviews_dataset.csv,review_comment_message,58247
+olist_orders_dataset.csv,order_approved_at,160
+olist_orders_dataset.csv,order_delivered_carrier_date,1783
+olist_orders_dataset.csv,order_delivered_customer_date,2965
+olist_products_dataset.csv,product_category_name,610
+olist_products_dataset.csv,product_name_lenght,610
+olist_products_dataset.csv,product_description_lenght,610
+olist_products_dataset.csv,product_photos_qty,610
+olist_products_dataset.csv,product_weight_g,2
+olist_products_dataset.csv,product_length_cm,2
+olist_products_dataset.csv,product_height_cm,2
+olist_products_dataset.csv,product_width_cm,2
